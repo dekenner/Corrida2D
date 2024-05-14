@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1480087727 source:c:\users\thiago\desktop\jogo 2.0\jogo 2.0\main.c
+	"TAD_ListaSE_HT.h"
+	"jogo.h"
+
+1480102639 c:\users\thiago\desktop\jogo 2.0\jogo 2.0\tad_listase_ht.h
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+
+1480105976 c:\users\thiago\desktop\jogo 2.0\jogo 2.0\jogo.h
+	"TAD_ListaSE_HT.h"
+
+1480107060 source:c:\users\thiago\desktop\jogo 2.0\jogo 2.0\jogo.c
+	"jogo.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+
+1480105738 source:c:\users\thiago\desktop\jogo 2.0\jogo 2.0\tad_listase_ht.c
+	"TAD_ListaSE_HT.h"
+
+1480087727 source:c:\users\thiago\desktop\jogo 2.0\jogo 3.0\main.c
+	"TAD_ListaSE_HT.h"
+	"jogo.h"
+
+1480185383 c:\users\thiago\desktop\jogo 2.0\jogo 3.0\tad_listase_ht.h
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+
+1480127323 c:\users\thiago\desktop\jogo 2.0\jogo 3.0\jogo.h
+	"TAD_ListaSE_HT.h"
+
+1480185731 source:c:\users\thiago\desktop\jogo 2.0\jogo 3.0\tad_listase_ht.c
+	"TAD_ListaSE_HT.h"
+
+1480185515 source:c:\users\thiago\desktop\jogo 2.0\jogo 3.0\jogo.c
+	"jogo.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1480185932 source:c:\users\thiago\desktop\jogo 2.0\jogo 3.1\jogo.c
+	"jogo.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1480127323 c:\users\thiago\desktop\jogo 2.0\jogo 3.1\jogo.h
+	"TAD_ListaSE_HT.h"
+
+1480185383 c:\users\thiago\desktop\jogo 2.0\jogo 3.1\tad_listase_ht.h
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+
+1480087727 source:c:\users\thiago\desktop\jogo 2.0\jogo 3.1\main.c
+	"TAD_ListaSE_HT.h"
+	"jogo.h"
+
+1480185731 source:c:\users\thiago\desktop\jogo 2.0\jogo 3.1\tad_listase_ht.c
+	"TAD_ListaSE_HT.h"
+
